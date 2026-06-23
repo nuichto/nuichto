@@ -1,10 +1,8 @@
 * # Hi, I'm Marina! 👋
+* 
 ## 🚀 About Me
-I'm building a Python backend application for tracking:
-- menstrual cycle
-- energy levels
-- workouts
-- daily well-being
+QA Engineer with e-commerce experience.  
+Currently learning backend development and building my first Python projects.
 
 ---
 
@@ -16,12 +14,5 @@ I'm building a Python backend application for tracking:
 
 ---
 
-## About me
-QA Engineer with e-commerce experience.  
-Currently learning backend development and building my first Python projects.
-
----
-
 ## Contact
-- LinkedIn: https://linkedin.com/in/your-profile
-- Telegram: @yourname
+- LinkedIn: www.linkedin.com/in/marinazgrdnv
