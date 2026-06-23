@@ -1,16 +1,27 @@
-## Hi there 👋
+* # Hi, I'm Marina! 👋
+## 🚀 About Me
+I'm building a Python backend application for tracking:
+- menstrual cycle
+- energy levels
+- workouts
+- daily well-being
 
-<!--
-**nuichto/nuichto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Tech stack
+- Python
+- FastAPI
+- PostgreSQL
+- Git / GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About me
+QA Engineer with e-commerce experience.  
+Currently learning backend development and building my first Python projects.
+
+---
+
+## Contact
+- LinkedIn: https://linkedin.com/in/your-profile
+- Telegram: @yourname
