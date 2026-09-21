@@ -6,7 +6,6 @@ This profile documents that process — projects, progress, and everything in be
 
 ## What I'm doing now
 - Learning Python fundamentals and backend concepts
-- Just published my first project — a CLI task tracker in Python (see pinned repo below)
 - Working toward a Junior Python Backend Developer role
 - Open to remote opportunities
 
@@ -17,7 +16,7 @@ This profile documents that process — projects, progress, and everything in be
 - Git / GitHub
 
 ## Currently working on
-- A cycle-tracking web app as my main learning project
+- A woman cycle tracking web app as my main learning project
 
 ---
 *This profile is a work in progress — I'll keep updating it as I learn.*
