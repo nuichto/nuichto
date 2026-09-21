@@ -1,10 +1,14 @@
-# Hi, I'm Marina! 👋
+# Hi, I'm Marina 👋
 
 ## About Me
-QA Engineer with e-commerce experience.  
-Currently learning backend development and building my first Python projects.
+Learning Python and building projects to grow into backend development.
+This profile documents that process — projects, progress, and everything in between.
 
----
+## What I'm doing now
+- Learning Python fundamentals and backend concepts
+- Just published my first project — a CLI task tracker in Python (see pinned repo below)
+- Working toward a Junior Python Backend Developer role
+- Open to remote opportunities
 
 ## Tech stack
 - Python
@@ -12,7 +16,8 @@ Currently learning backend development and building my first Python projects.
 - PostgreSQL
 - Git / GitHub
 
----
+## Currently working on
+- A cycle-tracking web app as my main learning project
 
-## Contact
-- LinkedIn: www.linkedin.com/in/marinazgrdnv
+---
+*This profile is a work in progress — I'll keep updating it as I learn.*
